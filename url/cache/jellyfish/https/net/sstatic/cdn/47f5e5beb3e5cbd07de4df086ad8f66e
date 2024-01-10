@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 10 Jan 2024 01:43:23 GMT
+Content-Type: image/svg+xml
+Transfer-Encoding: chunked
+Connection: keep-alive
+cache-control: public, max-age=604800
+last-modified: Wed, 03 Jan 2024 17:47:52 GMT
+vary: Accept-Encoding
+CF-Cache-Status: HIT
+Age: 486841
+Expires: Wed, 17 Jan 2024 01:43:23 GMT
+Set-Cookie: __cf_bm=rlVsTX6ahyMKXQzdJRYd1PA_.BVWfoQdN2sCT0LIeEY-1704851003-1-AS6NkGz0d8Q3IbUcx0KGQFabmDK4OSVGms6ACktgrqk66hoZhbV7gcMBKSa5JSNnppC2HgyTKs448061Sjs9Vls=; path=/; expires=Wed, 10-Jan-24 02:13:23 GMT; domain=.sstatic.net; HttpOnly; Secure; SameSite=None
+X-DNS-Prefetch-Control: off
+Server: cloudflare
+CF-RAY: 84313a94f9854e05-MCI
+
+<svg width="24" height="33" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.2 14a1 1 0 0 1-.8-1.7L10.4.7a2 2 0 0 1 3.1 0l10 11.6a1 1 0 0 1-.7 1.7H1.2z" fill="#fff"/><path opacity=".5" fill-rule="evenodd" clip-rule="evenodd" d="M3.4 21h17.2L12 31 3.4 21zm-3-.3a1 1 0 0 1 .8-1.7h21.6a1 1 0 0 1 .8 1.7l-10 11.6a2 2 0 0 1-3.1 0L.5 20.7z" fill="#fff"/></svg>
