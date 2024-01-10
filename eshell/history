@@ -1,2 +1,49 @@
 sudo dnf upgrade
 sudo dnf install gnome-tweaks 
+sudo dnf install git
+git config --global user.name "ttn"
+git config --global user.email thomasnguyen729@gmail.com
+cd ~/.emacs.d/
+ls
+git init
+git config --global init.defaultBranch main
+ls
+ls -a
+rm -rf .git/
+git init
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:ttn729/emacs-config.git
+git push -u origin main
+ssh-keygen -t ed25519 -C "thomasnguyen729@gmail.com"
+eval "$(ssh-agent -s)"
+sudo dnf install ssh
+cat ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub 
+git push -u origin main
+cd ~/Documents/org/
+ls
+git init 
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:ttn729/org-files.git
+git push -u origin main
+cd ~/Downloads/my_files_export/Submissions/
+ls
+git init
+git add .
+git commit -m "graduated"
+git remote add origin git@github.com:ttn729/ou-hwSubmissions.git
+git push -u origin main
+ls
+git status
+git add .
+git commit -m "reduce lab8 file size below rec max"
+git push
+cd ~/.emacs.d/
+ls
+git status
+git add .
+git commit -m "change modeline colors"
+git push
