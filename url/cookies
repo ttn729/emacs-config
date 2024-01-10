@@ -1,0 +1,18 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("www.howtogeek.com"
+  [url-cookie "previousPage" "%2F760701%2Fhow-to-update-fedora-linux%2F" "Thu Feb 08 23:42:36 2024 GMT" "/" "www.howtogeek.com" nil]
+  [url-cookie "articlesRead" "%7B%22visited_links%22%3A%5B%22760701%5C%2Fhow-to-update-fedora-linux%22%5D%2C%22came_from_homepage%22%3Afalse%2C%22expire_time%22%3A%22%22%7D" "Fri Jan 06 23:42:36 2034 GMT" "/" "www.howtogeek.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; coding: utf-8-emacs-unix
+;; End:
+
+;;; cookies ends here
